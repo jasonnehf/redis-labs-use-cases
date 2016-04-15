@@ -1,10 +1,10 @@
 var config = {};
 
 config.app = {
-    name: "Twitter Stream API",
+    name: "JasonNehfRedisDemo",
     description: "Twitter Stream to Redis with Express API",
     version: "0.0.1",
-    channels: [ 'sxsw', 'RedisConf' ]
+    channels: [ 'javascript', 'RedisConf' ]
 };
 
 config.redis = {
